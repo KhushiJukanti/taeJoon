@@ -1,0 +1,642 @@
+[
+    {
+        "word": "Ambition",
+        "meanings": {
+            "English": "A strong desire to achieve something, typically requiring determination and hard work.",
+            "Telugu": "అభిలాష, సాధించడానికి పటుత్వం మరియు కష్టపడడం అవసరమయ్యే బలమైన కోరిక.",
+            "Hindi": "महत्त्वाकांक्षा, कुछ हासिल करने की प्रबल इच्छा, जो आमतौर पर दृढ़ संकल्प और कड़ी मेहनत की आवश्यकता होती है।"
+        }
+    },
+    {
+        "word": "Benevolent",
+        "meanings": {
+            "English": "Well-meaning and kindly.",
+            "Telugu": "మంచి మరియు దయార్ద్రతగల.",
+            "Hindi": "भलाई करने वाला और दयालु।"
+        }
+    },
+    {
+        "word": "Constitution",
+        "meanings": {
+            "English": "A body of fundamental principles or established precedents according to which a state or other organization is governed.",
+            "Telugu": "రాజ్యాంగం, ఒక సంస్థ లేదా సమాజం నిర్వహించబడే ప్రాథమిక సూత్రాలు లేదా స్థాపిత ఆచారాల సమాహారం.",
+            "Hindi": "संविधान, मूलभूत सिद्धांतों या स्थापित मिसालों का एक निकाय जिसके अनुसार एक राज्य या अन्य संगठन शासित होता है।"
+        }
+    },
+    {
+        "word": "Diversity",
+        "meanings": {
+            "English": "The state of being diverse; variety.",
+            "Telugu": "వైవిధ్యం, విభిన్నంగా ఉండే స్థితి; విభిన్నం.",
+            "Hindi": "विविधता, विविध होने की स्थिति; विभिन्नता।"
+        }
+    },
+    {
+        "word": "Eclectic",
+        "meanings": {
+            "English": "Deriving ideas, style, or taste from a broad and diverse range of sources.",
+            "Telugu": "ఎక్లెక్టిక్, విస్తృత మరియు విభిన్న శ్రేణి మూలాల నుండి ఆలోచనలు, శైలి లేదా రుచిని ఉత్పత్తి చేసే.",
+            "Hindi": "विविधतापूर्ण, व्यापक और विविध स्रोतों से विचार, शैली या स्वाद प्राप्त करना।"
+        }
+    },
+    {
+        "word": "Facetious",
+        "meanings": {
+            "English": "Treating serious issues with deliberately inappropriate humor; flippant.",
+            "Telugu": "సరదాగా, ఉద్దేశపూర్వకంగా అనుచిత హాస్యంతో గంభీరమైన సమస్యలను ఎదుర్కొనే.",
+            "Hindi": "हाजिरजवाब, जानबूझकर अनुचित हास्य के साथ गंभीर मुद्दों का सामना करना।"
+        }
+    },
+    {
+        "word": "Gregarious",
+        "meanings": {
+            "English": "Fond of company; sociable.",
+            "Telugu": "సామూహిక, సమూహంలో ఉండటానికి ఇష్టపడే; సామాజిక.",
+            "Hindi": "मिलनसार, कंपनी का शौक; सामाजिक।"
+        }
+    },
+    {
+        "word": "Hierarchy",
+        "meanings": {
+            "English": "A system in which members of an organization or society are ranked according to relative status or authority.",
+            "Telugu": "పిరమిడ్, సభ్యులు ఒక సంస్థ లేదా సమాజం లో సాపేక్ష స్థాయి లేదా అధికారానికి అనుగుణంగా ర్యాంక్ చేయబడిన వ్యవస్థ.",
+            "Hindi": "पदानुक्रम, एक प्रणाली जिसमें एक संगठन या समाज के सदस्यों को सापेक्ष स्थिति या अधिकार के अनुसार रैंक किया जाता है।"
+        }
+    },
+    {
+        "word": "Inquisitive",
+        "meanings": {
+            "English": "Curious or inquiring.",
+            "Telugu": "విచారణాత్మక, ఆసక్తికరమైన లేదా విచారణ.",
+            "Hindi": "जिज्ञासु, उत्सुक या पूछताछ करने वाला।"
+        }
+    },
+    {
+        "word": "Juxtaposition",
+        "meanings": {
+            "English": "The fact of two things being seen or placed close together with contrasting effect.",
+            "Telugu": "జక్స్టాపోజిషన్, రెండింటి భిన్నమైన ప్రభావంతో సమీపంలో ఉంచబడిన వాస్తవం.",
+            "Hindi": "समीपस्थापन, दो चीजों के विपरीत प्रभाव के साथ पास-पास देखे जाने या रखे जाने का तथ्य।"
+        }
+    },
+    {
+        "word": "Kaleidoscope",
+        "meanings": {
+            "English": "A constantly changing pattern or sequence of elements.",
+            "Telugu": "కళైడోస్కోప్, నిరంతరం మారే నమూనా లేదా అంశాల క్రమం.",
+            "Hindi": "दृश्यदर्शी, लगातार बदलते पैटर्न या तत्वों का क्रम।"
+        }
+    },
+    {
+        "word": "Luminous",
+        "meanings": {
+            "English": "Emitting or reflecting light, especially in the dark.",
+            "Telugu": "ప్రకాశవంతమైన, వెలుతురు విడుదల చేసే లేదా ప్రతిబింబించే, ముఖ్యంగా చీకటిలో.",
+            "Hindi": "प्रकाशमान, प्रकाश उत्सर्जित या परावर्तित करने वाला, विशेष रूप से अंधेरे में।"
+        }
+    },
+    {
+        "word": "Meticulous",
+        "meanings": {
+            "English": "Showing great attention to detail; very careful and precise.",
+            "Telugu": "సూక్ష్మ, వివరాలకు గొప్ప శ్రద్ధ చూపడం; చాలా జాగ్రత్తగా మరియు ఖచ్చితంగా.",
+            "Hindi": "सूक्ष्म, विस्तार पर बहुत ध्यान देना; बहुत सावधान और सटीक।"
+        }
+    },
+    {
+        "word": "Nostalgia",
+        "meanings": {
+            "English": "A sentimental longing or wistful affection for the past.",
+            "Telugu": "నాస్టాల్జియా, గతం కోసం ఒక భావోద్వేగ ప్రణాళిక లేదా విచారకరమైన ప్రేమ.",
+            "Hindi": "अतीत के लिए एक भावुक लालसा या wistful स्नेह।"
+        }
+    },
+    {
+        "word": "Obsolete",
+        "meanings": {
+            "English": "No longer produced or used; out of date.",
+            "Telugu": "పాతది, ఇకపై ఉత్పత్తి చేయబడదు లేదా ఉపయోగించబడదు; తేడా.",
+            "Hindi": "अप्रचलित, अब उत्पादन या उपयोग नहीं किया जाता; पुराने फैशन का।"
+        }
+    },
+    {
+        "word": "Paradox",
+        "meanings": {
+            "English": "A seemingly absurd or self-contradictory statement or proposition that when investigated may prove to be well founded or true.",
+            "Telugu": "ప్యారడాక్స్, పరిశీలన చేస్తే బాగా స్థాపించబడిన లేదా నిజమని నిరూపించబడే అప్రతిభ లేదా స్వీయ-విరుద్ధమైన ప్రకటన లేదా ప్రతిపాదన.",
+            "Hindi": "विरोधाभास, एक प्रतीत होता है कि"
+        }
+    },
+    {
+        "word": "Resilient",
+        "meanings": {
+            "English": "Able to withstand or recover quickly from difficult conditions.",
+            "Telugu": "ప్రతికూల పరిస్థితుల నుండి త్వరగా కోలుకునే సామర్థ్యం.",
+            "Hindi": "कठिन परिस्थितियों से शीघ्र उबरने में सक्षम।"
+        }
+    },
+    {
+        "word": "Eloquent",
+        "meanings": {
+            "English": "Fluent or persuasive in speaking or writing.",
+            "Telugu": "మాట్లాడటంలో లేదా వ్రాయటంలో ప్రవీణత లేదా ప్రభావశీలత.",
+            "Hindi": "बोलने या लिखने में धाराप्रवाह या प्रभावी।"
+        }
+    },
+    {
+        "word": "Candid",
+        "meanings": {
+            "English": "Truthful and straightforward; frank.",
+            "Telugu": "నిజాయితీ మరియు నిష్కపటంగా ఉండడం.",
+            "Hindi": "सत्यवादी और स्पष्टवादी।"
+        }
+    },
+    {
+        "word": "Ephemeral",
+        "meanings": {
+            "English": "Lasting for a very short time.",
+            "Telugu": "చాలా స్వల్ప కాలం మాత్రమే కొనసాగుతుంది.",
+            "Hindi": "बहुत ही कम समय तक रहने वाला।"
+        }
+    },
+    {
+        "word": "Serendipity",
+        "meanings": {
+            "English": "The occurrence of events by chance in a happy or beneficial way.",
+            "Telugu": "అనుకోకుండా జరిగిన సంతోషకర లేదా లాభదాయక పరిస్థితి.",
+            "Hindi": "संयोगवश घटित"
+        }
+    },
+    {
+        "word": "Tenacious",
+        "meanings": {
+            "English": "Tending to keep a firm hold of something; clinging or adhering closely.",
+            "Telugu": "ఏదైనా బలంగా పట్టుకునే స్వభావం; దగ్గరగా అంటుకునే.",
+            "Hindi": "किसी चीज को मजबूती से पकड़ने की प्रवृत्ति; चिपके रहना या निकटता से पालन करना।"
+        }
+    },
+    {
+        "word": "Ubiquitous",
+        "meanings": {
+            "English": "Present, appearing, or found everywhere.",
+            "Telugu": "ప్రతిచోటా ఉన్న, కనిపించేది లేదా లభించే.",
+            "Hindi": "हर जगह उपस्थित, दिखाई देना, या पाया जाना।"
+        }
+    },
+    {
+        "word": "Voracious",
+        "meanings": {
+            "English": "Wanting or devouring great quantities of food.",
+            "Telugu": "భోజనం యొక్క గొప్ప పరిమాణాలను కావాలనుకోవడం లేదా తినడం.",
+            "Hindi": "भोजन की बड़ी मात्रा को चाहने वाला या निगलने वाला।"
+        }
+    },
+    {
+        "word": "Whimsical",
+        "meanings": {
+            "English": "Playfully quaint or fanciful, especially in an appealing and amusing way.",
+            "Telugu": "ఆకర్షణీయంగా మరియు వినోదాత్మకంగా ఉండే పద్ధతిలో కవితాత్మకమైనది.",
+            "Hindi": "खेलपूर्वक विचित्र या कल्पनाशील, विशेष रूप से एक आकर्षक और मनोरंजक तरीके से।"
+        }
+    },
+    {
+        "word": "Xenophobic",
+        "meanings": {
+            "English": "Having or showing a dislike of or prejudice against people from other countries.",
+            "Telugu": "ఇతర దేశాల ప్రజల పట్ల అసహనం లేదా పక్షపాతం ఉండటం లేదా చూపించడం.",
+            "Hindi": "अन्य देशों के लोगों के प्रति नापसंदगी या पूर्वाग्रह होना या दिखाना।"
+        }
+    },
+    {
+        "word": "Yielding",
+        "meanings": {
+            "English": "Giving way under pressure; not hard or rigid.",
+            "Telugu": "పీడనకు లోబడటం; గట్టి లేదా కఠినంగా ఉండదు.",
+            "Hindi": "दबाव में झुकना; कठोर या कठोर नहीं।"
+        }
+    },
+    {
+        "word": "Zealous",
+        "meanings": {
+            "English": "Having or showing zeal.",
+            "Telugu": "ఉత్సాహం కలిగి ఉండటం లేదా చూపడం.",
+            "Hindi": "उत्साह दिखाना या दिखाना।"
+        }
+    },
+    {
+        "word": "Astute",
+        "meanings": {
+            "English": "Having or showing an ability to accurately assess situations or people and turn this to one's advantage.",
+            "Telugu": "పరిస్థితులు లేదా వ్యక్తులను ఖచ్చితంగా అంచనా వేయగల సామర్థ్యం కలిగి ఉండటం లేదా చూపించడం మరియు దీన్ని తన ప్రయోజనానికి మార్చడం.",
+            "Hindi": "स्थिति या लोगों का सटीक आकलन करने की क्षमता दिखाना या दिखाना और इसे अपने लाभ में बदलना।"
+        }
+    },
+    {
+        "word": "Banal",
+        "meanings": {
+            "English": "So lacking in originality as to be obvious and boring.",
+            "Telugu": "అంత ప్రాముఖ్యత లేని కారణంగా స్పష్టమైన మరియు బోరింగ్.",
+            "Hindi": "मौलिकता की इतनी कमी होना कि स्पष्ट और उबाऊ हो।"
+        }
+    },
+    {
+        "word": "Capricious",
+        "meanings": {
+            "English": "Given to sudden and unaccountable changes of mood or behavior.",
+            "Telugu": "మూడ్ లేదా ప్రవర్తనలో ఆకస్మిక మరియు అవిచార మార్పులకు ఇస్తుంది.",
+            "Hindi": "मूड या व्यवहार में अचानक और बेवजह परिवर्तन करना।"
+        }
+    },
+    {
+        "word": "Deft",
+        "meanings": {
+            "English": "Neatly skillful and quick in one's movements.",
+            "Telugu": "మామూలుగా నైపుణ్యం మరియు త్వరగా కదలికలలో ఉండటం.",
+            "Hindi": "कुशलता से और तेजी से किसी की चाल में होना।"
+        }
+    },
+    {
+        "word": "Empathy",
+        "meanings": {
+            "English": "The ability to understand and share the feelings of another.",
+            "Telugu": "ఇతరుల భావాలను అర్థం చేసుకోవడం మరియు పంచుకోవడం.",
+            "Hindi": "दूसरे की भावनाओं को समझने और साझा करने की क्षमता।"
+        }
+    },
+    {
+        "word": "Fervent",
+        "meanings": {
+            "English": "Having or displaying a passionate intensity.",
+            "Telugu": "భావోద్వేగమైన తీవ్రత కలిగి ఉండటం లేదా ప్రదర్శించడం.",
+            "Hindi": "जोरदार तीव्रता दिखाना या दिखाना।"
+        }
+    },
+    {
+        "word": "Guile",
+        "meanings": {
+            "English": "Sly or cunning intelligence.",
+            "Telugu": "చురుకైన లేదా వక్ర బుద్ధి.",
+            "Hindi": "चालाक या धूर्त बुद्धिमत्ता।"
+        }
+    },
+    {
+        "word": "Heuristic",
+        "meanings": {
+            "English": "Enabling a person to discover or learn something for themselves.",
+            "Telugu": "ఒక వ్యక్తి స్వయంగా కనుగొనడానికి లేదా నేర్చుకోవడానికి అనుమతించడం.",
+            "Hindi": "एक व्यक्ति को स्वयं कुछ खोजने या सीखने में सक्षम बनाना।"
+        }
+    },
+    {
+        "word": "Inevitable",
+        "meanings": {
+            "English": "Certain to happen; unavoidable.",
+            "Telugu": "జరిగేది ఖాయం; అనివార్యం.",
+            "Hindi": "घटित होना निश्चित है; अपरिहार्य।"
+        }
+    },
+    {
+        "word": "Jovial",
+        "meanings": {
+            "English": "Cheerful and friendly.",
+            "Telugu": "ఆనందకరమైన మరియు స్నేహపూర్వకమైన.",
+            "Hindi": "हंसमुख और मैत्रीपूर्ण।"
+        }
+    },
+    {
+        "word": "Keen",
+        "meanings": {
+            "English": "Having or showing eagerness or enthusiasm.",
+            "Telugu": "ఆసక్తి లేదా ఉత్సాహం చూపించడం.",
+            "Hindi": "उत्सुकता या उत्साह दिखाना।"
+        }
+    },
+    {
+        "word": "Lucid",
+        "meanings": {
+            "English": "Expressed clearly; easy to understand.",
+            "Telugu": "స్పష్టంగా వ్యక్తీకరించబడింది; అర్థం చేసుకోవడం సులభం.",
+            "Hindi": "स्पष्ट रूप से व्यक्त किया गया; समझने में आसान।"
+        }
+    },
+    {
+        "word": "Magnanimous",
+        "meanings": {
+            "English": "Generous or forgiving, especially toward a rival or less powerful person.",
+            "Telugu": "విరాళాలు ఇవ్వడం లేదా క్షమించడం, ముఖ్యంగా ప్రత్యర్థి లేదా తక్కువ శక్తివంతమైన వ్యక్తి పట్ల.",
+            "Hindi": "उदार या क्षमाशील, विशेष रूप से प्रतिद्वंद्वी या कम शक्तिशाली व्यक्ति की ओर।"
+        }
+    },
+    {
+        "word": "Nurture",
+        "meanings": {
+            "English": "Care for and encourage the growth or development of.",
+            "Telugu": "పెంపకం మరియు అభివృద్ధిని ప్రోత్సహించండి.",
+            "Hindi": "देखभाल करना और विकास या विकास को प्रोत्साहित करना।"
+        }
+    },
+    {
+        "word": "Omnipotent",
+        "meanings": {
+            "English": "Having unlimited power; able to do anything.",
+            "Telugu": "అపారమైన శక్తి కలిగి ఉంది; ఏదైనా చేయగలరు.",
+            "Hindi": "असीम शक्ति होना; कुछ भी करने में सक्षम।"
+        }
+    },
+    {
+        "word": "Pragmatic",
+        "meanings": {
+            "English": "Dealing with things sensibly and realistically in a way that is based on practical rather than theoretical considerations.",
+            "Telugu": "వాస్తవికంగా మరియు యథార్థంగా వ్యవహరించడం, సిద్ధాంతపరమైన పరిగణనల కంటే ప్రాయోగికంగా ఉండే విధంగా.",
+            "Hindi": "व्यवहारिक विचारों के बजाय व्यावहारिक आधार पर चीजों को समझदारी और यथार्थवादी तरीके से निपटना।"
+        }
+    },
+    {
+        "word": "Quintessential",
+        "meanings": {
+            "English": "Representing the most perfect or typical example of a quality or class.",
+            "Telugu": "గుణం లేదా తరగతికి అత్యంత పర్ఫెక్ట్ లేదా ప్రామాణిక ఉదాహరణను ప్రాతినిధ్యం వహించడం.",
+            "Hindi": "गुणवत्ता या वर्ग का सबसे उत्तम या सामान्य उदाहरण प्रस्तुत करना।"
+        }
+    },
+    {
+        "word": "Resilient",
+        "meanings": {
+            "English": "Able to withstand or recover quickly from difficult conditions.",
+            "Telugu": "ప్రతికూల పరిస్థితుల నుండి త్వరగా కోలుకునే సామర్థ్యం.",
+            "Hindi": "कठिन परिस्थितियों से शीघ्र उबरने में सक्षम।"
+        }
+    },
+    {
+        "word": "Sagacious",
+        "meanings": {
+            "English": "Having or showing keen mental discernment and good judgment; shrewd.",
+            "Telugu": "తేజస్సుగా ఉన్న మానసిక వివేకం మరియు మంచి తీర్పును కలిగి ఉండటం లేదా చూపించడం; తెలివైన.",
+            "Hindi": "तीव्र मानसिक विवेक और अच्छे निर्णय को दिखाना या दिखाना; चतुर।"
+        }
+    },
+    {
+        "word": "Tenacious",
+        "meanings": {
+            "English": "Tending to keep a firm hold of something; clinging or adhering closely.",
+            "Telugu": "ఏదైనా బలంగా పట్టుకునే స్వభావం; దగ్గరగా అంటుకునే.",
+            "Hindi": "किसी चीज को मजबूती से पकड़ने की प्रवृत्ति; चिपके रहना या निकटता से पालन करना।"
+        }
+    },
+    {
+        "word": "Ubiquitous",
+        "meanings": {
+            "English": "Present, appearing, or found everywhere.",
+            "Telugu": "ప్రతిచోటా ఉన్న, కనిపించేది లేదా లభించే.",
+            "Hindi": "हर जगह उपस्थित, दिखाई देना, या पाया जाना।"
+        }
+    },
+    {
+        "word": "Voracious",
+        "meanings": {
+            "English": "Wanting or devouring great quantities of food.",
+            "Telugu": "భోజనం యొక్క గొప్ప పరిమాణాలను కావాలనుకోవడం లేదా తినడం.",
+            "Hindi": "भोजन की बड़ी मात्रा को चाहने वाला या निगलने वाला।"
+        }
+    },
+    {
+        "word": "Whimsical",
+        "meanings": {
+            "English": "Playfully quaint or fanciful, especially in an appealing and amusing way.",
+            "Telugu": "ఆకర్షణీయంగా మరియు వినోదాత్మకంగా ఉండే పద్ధతిలో కవితాత్మకమైనది.",
+            "Hindi": "खेलपूर्वक विचित्र या कल्पनाशील, विशेष रूप से एक आकर्षक और मनोरंजक तरीके से।"
+        }
+    },
+    {
+        "word": "Xenophobic",
+        "meanings": {
+            "English": "Having or showing a dislike of or prejudice against people from other countries.",
+            "Telugu": "ఇతర దేశాల ప్రజల పట్ల అసహనం లేదా పక్షపాతం ఉండటం లేదా చూపించడం.",
+            "Hindi": "अन्य देशों के लोगों के प्रति नापसंदगी या पूर्वाग्रह होना या दिखाना।"
+        }
+    },
+    {
+        "word": "Yielding",
+        "meanings": {
+            "English": "Giving way under pressure; not hard or rigid.",
+            "Telugu": "పీడనకు లోబడటం; గట్టి లేదా కఠినంగా ఉండదు.",
+            "Hindi": "दबाव में झुकना; कठोर या कठोर नहीं।"
+        }
+    },
+    {
+        "word": "Zealous",
+        "meanings": {
+            "English": "Having or showing zeal.",
+            "Telugu": "ఉత్సాహం కలిగి ఉండటం లేదా చూపించడం.",
+            "Hindi": "उत्साह दिखाना या दिखाना।"
+        }
+    },
+    {
+        "word": "Astute",
+        "meanings": {
+            "English": "Having or showing an ability to accurately assess situations or people and turn this to one's advantage.",
+            "Telugu": "పరిస్థితులు లేదా వ్యక్తులను ఖచ్చితంగా అంచనా వేయగల సామర్థ్యం కలిగి ఉండటం లేదా చూపించడం మరియు దీన్ని తన ప్రయోజనానికి మార్చడం.",
+            "Hindi": "स्थिति या लोगों का सटीक आकलन करने की क्षमता दिखाना या दिखाना और इसे अपने लाभ में बदलना।"
+        }
+    },
+    {
+        "word": "Banal",
+        "meanings": {
+            "English": "So lacking in originality as to be obvious and boring.",
+            "Telugu": "అంత ప్రాముఖ్యత లేని కారణంగా స్పష్టమైన మరియు బోరింగ్.",
+            "Hindi": "मौलिकता की इतनी कमी होना कि स्पष्ट और उबाऊ हो।"
+        }
+    },
+    {
+        "word": "Capricious",
+        "meanings": {
+            "English": "Given to sudden and unaccountable changes of mood or behavior.",
+            "Telugu": "మూడ్ లేదా ప్రవర్తనలో ఆకస్మిక మరియు అవిచార మార్పులకు ఇస్తుంది.",
+            "Hindi": "मूड या व्यवहार में अचानक और बेवजह परिवर्तन करना।"
+        }
+    },
+    {
+        "word": "Deft",
+        "meanings": {
+            "English": "Neatly skillful and quick in one's movements.",
+            "Telugu": "మామూలుగా నైపుణ్యం మరియు త్వరగా కదలికలలో ఉండటం.",
+            "Hindi": "कुशलता से और तेजी से किसी की चाल में होना।"
+        }
+    },
+    {
+        "word": "Empathy",
+        "meanings": {
+            "English": "The ability to understand and share the feelings of another.",
+            "Telugu": "ఇతరుల భావాలను అర్థం చేసుకోవడం మరియు పంచుకోవడం.",
+            "Hindi": "दूसरे की भावनाओं को समझने और साझा करने की क्षमता।"
+        }
+    },
+    {
+        "word": "Fervent",
+        "meanings": {
+            "English": "Having or displaying a passionate intensity.",
+            "Telugu": "భావోద్వేగమైన తీవ్రత కలిగి ఉండటం లేదా ప్రదర్శించడం.",
+            "Hindi": "जोरदार तीव्रता दिखाना या दिखाना।"
+        }
+    },
+    {
+        "word": "Guile",
+        "meanings": {
+            "English": "Sly or cunning intelligence.",
+            "Telugu": "చురుకైన లేదా వక్ర బుద్ధి.",
+            "Hindi": "चालाक या धूर्त बुद्धिमत्ता।"
+        }
+    },
+    {
+        "word": "Heuristic",
+        "meanings": {
+            "English": "Enabling a person to discover or learn something for themselves.",
+            "Telugu": "ఒక వ్యక్తి స్వయంగా కనుగొనడానికి లేదా నేర్చుకోవడానికి అనుమతించడం.",
+            "Hindi": "एक व्यक्ति को स्वयं कुछ खोजने या सीखने में सक्षम बनाना।"
+        }
+    },
+    {
+        "word": "Inevitable",
+        "meanings": {
+            "English": "Certain to happen; unavoidable.",
+            "Telugu": "జరిగేది ఖాయం; అనివార్యం.",
+            "Hindi": "घटित होना निश्चित है; अपरिहार्य।"
+        }
+    },
+    {
+        "word": "Jovial",
+        "meanings": {
+            "English": "Cheerful and friendly.",
+            "Telugu": "ఆనందకరమైన మరియు స్నేహపూర్వకమైన.",
+            "Hindi": "हंसमुख और मैत्रीपूर्ण।"
+        }
+    },
+    {
+        "word": "Keen",
+        "meanings": {
+            "English": "Having or showing eagerness or enthusiasm.",
+            "Telugu": "ఆసక్తి లేదా ఉత్సాహం చూపించడం.",
+            "Hindi": "उत्सुकता या उत्साह दिखाना।"
+        }
+    },
+    {
+        "word": "Lucid",
+        "meanings": {
+            "English": "Expressed clearly; easy to understand.",
+            "Telugu": "స్పష్టంగా వ్యక్తీకరించబడింది; అర్థం చేసుకోవడం సులభం.",
+            "Hindi": "स्पष्ट रूप से व्यक्त किया गया; समझने में आसान।"
+        }
+    },
+    {
+        "word": "Magnanimous",
+        "meanings": {
+            "English": "Generous or forgiving, especially toward a rival or less powerful person.",
+            "Telugu": "విరాళాలు ఇవ్వడం లేదా క్షమించడం, ముఖ్యంగా ప్రత్యర్థి లేదా తక్కువ శక్తివంతమైన వ్యక్తి పట్ల.",
+            "Hindi": "उदार या क्षमाशील, विशेष रूप से प्रतिद्वंद्वी या कम शक्तिशाली व्यक्ति की ओर।"
+        }
+    },
+    {
+        "word": "Nurture",
+        "meanings": {
+            "English": "Care for and encourage the growth or development of.",
+            "Telugu": "పెంపకం మరియు అభివృద్ధిని ప్రోత్సహించండి.",
+            "Hindi": "देखभाल करना और विकास या विकास को प्रोत्साहित करना।"
+        }
+    },
+    {
+        "word": "Omnipotent",
+        "meanings": {
+            "English": "Having unlimited power; able to do anything.",
+            "Telugu": "అపారమైన శక్తి కలిగి ఉంది; ఏదైనా చేయగలరు.",
+            "Hindi": "असीम शक्ति होना; कुछ भी करने में सक्षम।"
+        }
+    },
+    {
+        "word": "Pragmatic",
+        "meanings": {
+            "English": "Dealing with things sensibly and realistically in a way that is based on practical rather than theoretical considerations.",
+            "Telugu": "వాస్తవికంగా మరియు యథార్థంగా వ్యవహరించడం, సిద్ధాంతపరమైన పరిగణనల కంటే ప్రాయోగికంగా ఉండే విధంగా.",
+            "Hindi": "व्यवहारिक विचारों के बजाय व्यावहारिक आधार पर चीजों को समझदारी और यथार्थवादी तरीके से निपटना।"
+        }
+    },
+    {
+        "word": "Quintessential",
+        "meanings": {
+            "English": "Representing the most perfect or typical example of a quality or class.",
+            "Telugu": "గుణం లేదా తరగతికి అత్యంత పర్ఫెక్ట్ లేదా ప్రామాణిక ఉదాహరణను ప్రాతినిధ్యం వహించడం.",
+            "Hindi": "गुणवत्ता या वर्ग का सबसे उत्तम या सामान्य उदाहरण प्रस्तुत करना।"
+        }
+    },
+    {
+        "word": "Resilient",
+        "meanings": {
+            "English": "Able to withstand or recover quickly from difficult conditions.",
+            "Telugu": "ప్రతికూల పరిస్థితుల నుండి త్వరగా కోలుకునే సామర్థ్యం.",
+            "Hindi": "कठिन परिस्थितियों से शीघ्र उबरने में सक्षम।"
+        }
+    },
+    {
+        "word": "Sagacious",
+        "meanings": {
+            "English": "Having or showing keen mental discernment and good judgment; shrewd.",
+            "Telugu": "తేజస్సుగా ఉన్న మానసిక వివేకం మరియు మంచి తీర్పును కలిగి ఉండటం లేదా చూపించడం; తెలివైన.",
+            "Hindi": "तीव्र मानसिक विवेक और अच्छे निर्णय को दिखाना या दिखाना; चतुर।"
+        }
+    },
+    {
+        "word": "Tenacious",
+        "meanings": {
+            "English": "Tending to keep a firm hold of something; clinging or adhering closely.",
+            "Telugu": "ఏదైనా బలంగా పట్టుకునే స్వభావం; దగ్గరగా అంటుకునే.",
+            "Hindi": "किसी चीज को मजबूती से पकड़ने की प्रवृत्ति; चिपके रहना या निकटता से पालन करना।"
+        }
+    },
+    {
+        "word": "Ubiquitous",
+        "meanings": {
+            "English": "Present, appearing, or found everywhere.",
+            "Telugu": "ప్రతిచోటా ఉన్న, కనిపించేది లేదా లభించే.",
+            "Hindi": "हर जगह उपस्थित, दिखाई देना, या पाया जाना।"
+        }
+    },
+    {
+        "word": "Voracious",
+        "meanings": {
+            "English": "Wanting or devouring great quantities of food.",
+            "Telugu": "భోజనం యొక్క గొప్ప పరిమాణాలను కావాలనుకోవడం లేదా తినడం.",
+            "Hindi": "भोजन की बड़ी मात्रा को चाहने वाला या निगलने वाला।"
+        }
+    },
+    {
+        "word": "Whimsical",
+        "meanings": {
+            "English": "Playfully quaint or fanciful, especially in an appealing and amusing way.",
+            "Telugu": "ఆకర్షణీయంగా మరియు వినోదాత్మకంగా ఉండే పద్ధతిలో కవితాత్మకమైనది.",
+            "Hindi": "खेलपूर्वक विचित्र या कल्पनाशील, विशेष रूप से एक आकर्षक और मनोरंजक तरीके से।"
+        }
+    },
+    {
+        "word": "Xenophobic",
+        "meanings": {
+            "English": "Having or showing a dislike of or prejudice against people from other countries.",
+            "Telugu": "ఇతర దేశాల ప్రజల పట్ల అసహనం లేదా పక్షపాతం ఉండటం లేదా చూపించడం.",
+            "Hindi": "अन्य देशों के लोगों के प्रति नापसंदगी या पूर्वाग्रह होना या दिखाना।"
+        }
+    },
+    {
+        "word": "Yielding",
+        "meanings": {
+            "English": "Giving way under pressure; not hard or rigid.",
+            "Telugu": "పీడనకు లోబడటం; గట్టి లేదా కఠినంగా ఉండదు.",
+            "Hindi": "दबाव में झुकना; कठोर या कठोर नहीं।"
+        }
+    },
+    {
+        "word": "Zealous",
+        "meanings": {
+            "English": "Having or showing zeal.",
+            "Telugu": "ఉత్సాహం కలిగి ఉండటం లేదా చూపించడం.",
+            "Hindi": "उत्साह दिखाना या दिखाना।"
+        }
+    }
+]
